@@ -1,2 +1,4 @@
 # hello-world
-Reposity to learn how to use Github
+Repository to learn how to use Github.
+
+Here I have changed the readme file.
